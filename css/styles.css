@@ -1,0 +1,128 @@
+body {
+  margin: 0;
+  font-family: 'Artifika', serif;
+  color: crimson;
+  background-color: black;
+}
+
+h1 {
+  color: #FBCAFF;
+  margin: 50px auto 0 auto;
+  font-family: 'Iceberg', cursive;
+  font-size: 3rem;
+  line-height: 2;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: thick;
+  width: 5rem;
+  margin: 50px auto;
+}
+.pro-highlight {
+  text-decoration: underline;
+}
+
+.scary-highlight {
+  font-weight: bolder;
+  color: red;
+}
+
+.programmer {
+  color: #FBCAFF;
+  margin: 0 auto 0 auto;
+  font-family: 'Iceberg', cursive;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: crimson;
+}
+
+a {
+  color: crimson;
+}
+
+.profile {
+  margin-bottom: 100px;
+}
+.sex {
+  display: inline-block;
+}
+.top-container {
+display: block;
+text-align: center;
+position: relative;
+padding: 100px 0;
+background-color: #FDEBF7;
+margin-bottom: 0;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 600px;
+  top: 100px;
+}
+
+.center-cloud {
+  position: absolute;
+  left: 600px;
+  top: 300px;
+}
+
+.mountain {
+  display: block;
+  margin: 10px auto 100px auto;
+}
+
+.angela {
+margin: 10px auto 50px auto;
+}
+.middle-container {
+margin: 0;
+display: block;
+position: relative;
+text-align: center;
+background-color: black;
+}
+
+.fire-gif {
+  width: 20%;
+  height: 20%;
+}
+
+.pic {
+  height: 10rem;
+  width: 10rem;
+  border-radius: 50%;
+
+}
+
+.money {
+  margin: 20px 0 20px 700px;
+}
+
+.skill {
+  margin: 20px 700px 20px 0;
+}
+
+.murder {
+  margin: 20px 700px 20px 0;
+}
+
+.bottom-container {
+  background-color: black;
+  margin: 0;
+}
+
+.copyright {
+  text-align: center;
+}
+
+.skill-row {
+  width: 50%;
+  height: 50%;
+  margin: 0 auto;
+}
